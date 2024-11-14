@@ -2,7 +2,8 @@
 - this manual was created to summarize different topics useful for beginners in MNCP, SSH, versioning and Conda manager
 - all manuals can be accessed from repository main bar - option **Wiki**
 - MIT license
-- [wiki git link](https://github.com/dusankr/various_documentation.wiki.git)
+- [wiki link](https://github.com/dusankr/various_documentation/wiki)
+- [wiki git repo link](https://github.com/dusankr/various_documentation.wiki.git)
 - covered topics:
   * SSH & Git settings
   * Basic work with **git** - needs to be extended
